@@ -45,7 +45,7 @@ function App() {
   return (
     <CContainer className='main'>
       <CRow>
-        <h1>Pavan Kumar TG's Search Test Assignment</h1>
+        <h1>News Lister</h1>
       </CRow>
       <CRow>
       <CFormInput
